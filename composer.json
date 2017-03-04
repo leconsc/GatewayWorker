@@ -1,0 +1,16 @@
+{
+    "name": "workerman/GatewayWorker",
+    "description": "Gateway Worker base on Workerman",
+    "keywords": ["event-loop", "asynchronous"],
+    "homepage": "http://www.workerman.net",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3.0",
+        "workerman/workerman": ">=2.0.5"
+    },
+    "config": {
+        "process-timeout": 1800
+    }
+}
