@@ -1,5 +1,5 @@
 {
-    "name": "workerman/workerman-sample",
+    "name": "workerman/gatewayworker",
     "description": "Gateway Worker base on Workerman",
     "keywords": ["event-loop", "asynchronous"],
     "homepage": "http://www.workerman.net",
