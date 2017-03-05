@@ -1,5 +1,5 @@
 {
-    "name": "workerman/gatewayworker",
+    "name": "leconsc/gateway-worker",
     "description": "Gateway Worker base on Workerman",
     "keywords": ["event-loop", "asynchronous"],
     "homepage": "http://www.workerman.net",
